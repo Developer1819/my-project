@@ -1,7 +1,7 @@
 body {
-    background-color: #eee;
+    background-image: url(https://img.imgsmail.ru/pm/1.0.4/blocks/ph-logo/img/logotype-mail.ru.png);
 }
 
-h1 {
-    color: blue;
+h1, h2 {
+    color: red;
 }
